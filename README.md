@@ -9,7 +9,9 @@ In this analysis, we observed,
 3. Which neighbourhood in Boston have the great number and least number of listings?
 
 The Dataset is collected from <a href = "http://insideairbnb.com/get-the-data.html">Inside Airbnb</a> <br>
-listings.csv.gz - consists of details of all the airbnb listings in Boston including their price, ratings, name, host id, neighbourhood overview and many other columns describing details of listings with Number of listings: 3,213
+listings.csv.gz - consists of details of all the airbnb listings in Boston including their price, ratings, name, host id, neighbourhood overview and many other columns describing details of listings with Number of listings: 3,213 <br>
+
+The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896"> Link </a>
 
 # Methods
 - Implemented leaflet map in R Shiny to show all the airbnb listings
