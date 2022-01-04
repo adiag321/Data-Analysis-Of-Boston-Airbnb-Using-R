@@ -1,17 +1,16 @@
 # <p align = "center">Data Analysis Of Boston Airbnb Listings Using R</p>
 
-In our project, we have included airbnb listings centered around Boston. Our analysis revolves around how we can effectively consider a booking based on different factors in Boston. <br>
-These factors mainly include, the neighbourhood, facilities available close to it, and price distribution on various room types. This helped to get desired results on preferences, basically by observing their occupancy rates.
+In our project, we have included Airbnb listings centered around Boston. Our analysis revolves around how we can effectively consider a booking based on different factors in Boston. <br>
+These factors mainly include the neighborhood, available facilities, and price distribution on various room types. It helped get desired results on preferences, basically by observing their occupancy rates. <br>
+
+The Dataset is collected from <a href = "http://insideairbnb.com/get-the-data.html">Inside Airbnb</a>. The "listings.csv" file consists of details of all the airbnb listings in Boston including their price, ratings, name, host id, neighbourhood overview and many other columns describing details of listings with Number of listings: 3,213 <br>
+
+The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896"> Link </a>
 
 In this analysis, we observed,
 1. How the vibe varies with neighborhood
-2. How price of each listing vary by their room type and neighbourhood
-3. Which neighbourhood in Boston have the great number and least number of listings?
-
-The Dataset is collected from <a href = "http://insideairbnb.com/get-the-data.html">Inside Airbnb</a> <br>
-listings.csv.gz - consists of details of all the airbnb listings in Boston including their price, ratings, name, host id, neighbourhood overview and many other columns describing details of listings with Number of listings: 3,213 <br>
-
-The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896"> Link </a>
+2. How price of each listing vary by their room type and neighborhood
+3. Which area in Boston has the significant number and least number of listings? 
 
 # Methods
 - Implemented leaflet map in R Shiny to show all the airbnb listings
