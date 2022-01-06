@@ -10,14 +10,36 @@ The data defination can be found in this link - <a href = "https://docs.google.c
 In this analysis, we observed,
 1. How the vibe varies with neighborhood
 2. How price of each listing vary by their room type and neighborhood
-3. Which area in Boston has the significant number and least number of listings? 
+3. Which area in Boston has the significant number and least number of listings?
+
 
 # Methods
-- Implemented leaflet map in R Shiny to show all the airbnb listings
-- Used Cluster marker to find the density of airbnb listings in the map
-- Plotted Price and Monthly Income Distribution of airbnb listings
-- Leveraged Bar Plots to find the number of listings per room type in the selected Neighborhood
--  Used wordcloud2 library to find the word frequencies and plot a wordcloud to analyze the vibe of the selected neighbourhood
+- Implemented leaflet map in R Shiny to show all the airbnb listings.
+- Used Cluster marker to find the density of airbnb listings in the map.
+- Plotted Price and Monthly Income Distribution of airbnb listings.
+- Leveraged Bar Plots to find the number of listings per room type in the selected Neighborhood.
+-  Used wordcloud2 library to find the word frequencies and plot a wordcloud to analyze the vibe of the selected neighbourhood.
+
+# Analysis
+1. Showing Leaflet Map for each Airbnb Listings
+
+<img src = "Images/Avg price of listing.png">
+
+2. Showing Neighborhood Vibe for each listings
+
+<img src = "Images/Neighborhood Vibe.png">
+
+3. Showing Avg price per day for each Room type
+
+<img src = "Images/Avg price of listing.png">
+
+4. Showing Number of Listings in each Neighborhood
+
+<img src = "Images/no of listings.png">
+
+5. Showing Price Distribution for each Room Type
+
+<img src = "Images/Price Distribution.png">
 
 # Conclusion
 - We can find the neighbourhood vibe based on the word cloud generator.

@@ -19,7 +19,7 @@ library(ggthemes)
 
 
 # Dataset
-listings <- read_csv("data/listings.csv")
+listings <- read_csv("/Users/adityaagarwal/Aditya Ag/Jupyter Notebook/Resume Projects/Data Analysis Of Boston Airbnb Using R/dataset/listings.csv")
 listings$price = as.numeric(gsub("\\$", "", listings$price ))
 col_values <- c("#FF9900","#000000","#4267B2","#DB4437","#7FBA00","#1DA1F2")
 listings <-  listings %>% 
