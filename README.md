@@ -3,6 +3,8 @@
 In our project, we have included Airbnb listings centered around Boston. Our analysis revolves around how we can effectively consider a booking based on different factors in Boston. <br>
 These factors mainly include the neighborhood, available facilities, and price distribution on various room types. It helped get desired results on preferences, basically by observing their occupancy rates. <br>
 
+# Overview
+
 The Dataset is collected from <a href = "http://insideairbnb.com/get-the-data.html">Inside Airbnb</a>. The "listings.csv" file consists of details of all the airbnb listings in Boston including their price, ratings, name, host id, neighbourhood overview and many other columns describing details of listings with Number of listings: 3,213 <br>
 
 The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896"> Link </a>
@@ -21,23 +23,23 @@ In this analysis, we observed,
 -  Used wordcloud2 library to find the word frequencies and plot a wordcloud to analyze the vibe of the selected neighbourhood.
 
 # Analysis
-1. Showing Leaflet Map for each Airbnb Listings
+1. Leaflet Map for each Airbnb Listings in Boston
 
-<img src = "Images/Avg price of listing.png">
+<img src = "Images/map.png">
 
-2. Showing Neighborhood Vibe for each listings
+2. Neighborhood Vibe for each listings
 
 <img src = "Images/Neighborhood Vibe.png">
 
-3. Showing Avg price per day for each Room type
+3. Avg price per day for each Room type
 
 <img src = "Images/Avg price of listing.png">
 
-4. Showing Number of Listings in each Neighborhood
+4. Number of Listings in each Neighborhood
 
 <img src = "Images/no of listings.png">
 
-5. Showing Price Distribution for each Room Type
+5. Price Distribution for each Room Type
 
 <img src = "Images/Price Distribution.png">
 
