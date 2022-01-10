@@ -3,13 +3,13 @@
 In our project, we have included Airbnb listings centered around Boston. Our analysis revolves around how we can effectively consider a booking based on different factors in Boston. <br>
 These factors mainly include the neighborhood, available facilities, and price distribution on various room types. It helped get desired results on preferences, basically by observing their occupancy rates. <br>
 
-The link for R Shiny Dashboard is given here - <a href = "https://fd0gc9-aditya-agarwal.shinyapps.io/RShiny_CV_Project/" target="_blank"> R Shiny Dashboard </a>
+The link for R Shiny Dashboard is given here - <a href = "https://fd0gc9-aditya-agarwal.shinyapps.io/RShiny_CV_Project/" target="blank"> R Shiny Dashboard </a>
 
 # Project Overview
 
 The Dataset is collected from <a href = "http://insideairbnb.com/get-the-data.html">Inside Airbnb</a>. The "listings.csv" file consists of details of all the airbnb listings in Boston including their price, ratings, name, host id, neighbourhood overview and many other columns describing details of listings with Number of listings: 3,213 <br>
 
-The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896" target="_blank"> Link </a>
+The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896" target="blank"> Link </a>
 
 In this analysis, we observed,
 1. How the vibe varies with neighborhood
