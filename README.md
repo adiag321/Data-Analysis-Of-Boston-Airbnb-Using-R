@@ -12,8 +12,8 @@ The Dataset is collected from <a href = "http://insideairbnb.com/get-the-data.ht
 The data defination can be found in this link - <a href = "https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896" target="blank"> Link </a>
 
 In this analysis, we observed,
-1. How the vibe varies with neighborhood
-2. How price of each listing vary by their room type and neighborhood
+1. How the vibe varies with neighborhood?
+2. How price of each listing vary by their room type and neighborhood?
 3. Which area in Boston has the significant number and least number of listings?
 
 
